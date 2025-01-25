@@ -52,4 +52,4 @@
 <a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
 
 ### Favorite tools
-<a href="https://open.spotify.com/" target="_blank"><img src="https://img.shields.io/badge/Spotify?style=for-the-badge&logo=spotify&logoColor=white" alt="Docker"></a>
+<a href="https://open.spotify.com/" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
