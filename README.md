@@ -4,7 +4,7 @@
 
 ## 📧 My Contact
 * 📧 Email : [yongsin.oak@gmail.com](mailto:yongsin.oak@gmail.com)
-
+* 💬 Discord: musoukaze
 ---
 
 ## 🚀 Skills
