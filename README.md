@@ -24,7 +24,7 @@
 <a href="https://ant.design/docs/react/introduce" target="_blank"><img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design"></a>
 <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
 <a href="https://getbootstrap.com/docs/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
-<a href="https://ui.shadcn.dev/" target="_blank"><img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=react&logoColor=white" alt="Shadcn"></a>
+<a href="https://ui.shadcn.com/" target="_blank"><img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=react&logoColor=white" alt="Shadcn"></a>
 
 ### Backend  
 <a href="https://nodejs.org/en/docs" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
