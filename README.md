@@ -1,8 +1,8 @@
 # Hi there 👋 My name is Yongsin Limwilaikul (Oak)
 
-## I am a Frontend Developer, and I am currently developing my skills to become a Fullstack Developer.
+### I am a Frontend Developer, and I am currently developing my skills to become a Fullstack Developer.
 
-### 📧 My Contact : [yongsin.oak@gmail.com](mailto:yongsin.oak@gmail.com)
+#### 📧 My Contact : [yongsin.oak@gmail.com](mailto:yongsin.oak@gmail.com)
 
 ---
 
