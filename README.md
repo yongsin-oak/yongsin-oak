@@ -1,6 +1,8 @@
 # Hi there 👋 My name is Yongsin Limwilaikul (Oak)
 
-#### 📧 My Contact [yongsin.oak@gmail.com](mailto:yongsin.oak@gmail.com)
+## I am a Frontend Developer, and I am currently developing my skills to become a Fullstack Developer.
+
+### 📧 My Contact : [yongsin.oak@gmail.com](mailto:yongsin.oak@gmail.com)
 <!--
 **yongsin-oak/yongsin-oak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
