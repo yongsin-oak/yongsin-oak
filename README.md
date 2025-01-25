@@ -50,3 +50,6 @@
 <a href="https://vuejs.org/v2/guide/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"></a>
 <a href="https://docs.nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"></a>
 <a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+
+### Favorite tools
+<a href="https://open.spotify.com/" target="_blank"><img src="https://img.shields.io/badge/Spotify?style=for-the-badge&logo=spotify&logoColor=white" alt="Docker"></a>
