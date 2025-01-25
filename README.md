@@ -55,4 +55,4 @@
 
 ### Favorite tools
 <a href="https://open.spotify.com/" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://open.spotify.com/" target="_blank"><img alt="GithubCopilot" src="https://img.shields.io/badge/Github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"></a>
+<a href="https://github.com/features/copilot" target="_blank"><img alt="GithubCopilot" src="https://img.shields.io/badge/Github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"></a>
