@@ -2,7 +2,7 @@
 
 ## My name is Yongsin Limwilaikul (Oak)
 
-## 📧 My Contact [yongsin.oak@gmail.com](mailto:yongsin.oak@gmail.com)
+#### 📧 My Contact [yongsin.oak@gmail.com](mailto:yongsin.oak@gmail.com)
 <!--
 **yongsin-oak/yongsin-oak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
