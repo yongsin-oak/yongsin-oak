@@ -2,7 +2,9 @@
 
 ### I am a Frontend Developer, and I am currently developing my skills to become a Fullstack Developer.
 
-#### 📧 My Contact : [yongsin.oak@gmail.com](mailto:yongsin.oak@gmail.com)
+## 📧 My Contact
+* 📧 Email : [yongsin.oak@gmail.com](mailto:yongsin.oak@gmail.com)
+* ![alt text](image.png) Discord : musoukaze
 
 ---
 
