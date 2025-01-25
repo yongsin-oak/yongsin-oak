@@ -1,6 +1,4 @@
-# Hi there 👋
-
-## My name is Yongsin Limwilaikul (Oak)
+# Hi there 👋 My name is Yongsin Limwilaikul (Oak)
 
 #### 📧 My Contact [yongsin.oak@gmail.com](mailto:yongsin.oak@gmail.com)
 <!--
