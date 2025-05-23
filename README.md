@@ -62,7 +62,7 @@
 <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GO"></a>
 
 ### Additional skills
-<a href="https://www.unrealengine.com/en-US" target="_blank"><img src="https://img.shields.io/badge/Unreal_Engine0E1128?style=for-the-badge" alt="Unreal Engine"></a>
+<a href="https://www.unrealengine.com/en-US" target="_blank"><img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"></a>
 <a href="https://www.autodesk.com/products/maya/overview" target="_blank"><img src="https://img.shields.io/badge/Maya_3D-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white" alt="Maya"></a>
 
 
