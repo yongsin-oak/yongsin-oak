@@ -28,6 +28,8 @@
 <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
 <a href="https://getbootstrap.com/docs/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
 <a href="https://ui.shadcn.com/" target="_blank"><img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=react&logoColor=white" alt="Shadcn"></a>
+<a href="https://mui.com/" target="_blank"><img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"></a>
+
 
 ### Backend  
 <a href="https://docs.nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"></a>
