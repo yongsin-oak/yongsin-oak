@@ -19,7 +19,6 @@
 
 ### Frontend  
 <a href="https://reactjs.org/docs/getting-started.html" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
-<a href="https://reactnative.dev/docs/getting-started" target="_blank"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"></a>
 <a href="https://nextjs.org/docs" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></a>
 <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=npm&logoColor=white" alt="Zustand"></a>
 <a href="https://www.i18next.com/" target="_blank"><img src="https://img.shields.io/badge/i18n-26A69A?style=for-the-badge&logo=i18next&logoColor=white" alt="i18next"></a>
@@ -35,6 +34,9 @@
 <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
 <a href="https://typeorm.io/" target="_blank"><img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM"></a>
 <a href="https://firebase.google.com/docs" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
+
+### Mobile
+<a href="https://reactnative.dev/docs/getting-started" target="_blank"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"></a>
 
 ### Cloud
 <a href="https://cloud.google.com/docs" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></a>
