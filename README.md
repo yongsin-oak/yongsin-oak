@@ -32,12 +32,23 @@
 <a href="https://nodejs.org/en/docs" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
 <a href="https://docs.nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></a>
+<a href="https://elysiajs.com/" target="_blank"><img src="https://img.shields.io/badge/ElysiaJS-000000?style=for-the-badge&logo=bun&logoColor=white" alt="ElysiaJS"></a>
 <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
 <a href="https://typeorm.io/" target="_blank"><img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM"></a>
 <a href="https://firebase.google.com/docs" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
 
 ### Mobile
 <a href="https://reactnative.dev/docs/getting-started" target="_blank"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"></a>
+
+### CI/CD
+<a href="https://docs.github.com/en/actions" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+</a>
+
+### Testing
+<a href="https://playwright.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+</a>
 
 ### Cloud/Infra
 <a href="https://cloud.google.com/docs" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></a>
@@ -48,21 +59,14 @@
 <a href="https://swagger.io/docs/" target="_blank"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
 
-### Currently Learning  
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Springboot"></a>
-<a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GO"></a>
-
-### Plan to Learning
-<a href="https://vuejs.org/v2/guide/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"></a>
-
 ### Additional skills
 <a href="https://www.unrealengine.com/en-US" target="_blank"><img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"></a>
 <a href="https://www.autodesk.com/products/maya/overview" target="_blank"><img src="https://img.shields.io/badge/Maya_3D-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white" alt="Maya"></a>
 
 ### Favorite tools
-<a href="https://open.spotify.com/" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://github.com/features/copilot" target="_blank"><img alt="GithubCopilot" src="https://img.shields.io/badge/Github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"></a>
+<a href="https://music.youtube.com/" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" alt="YouTube Music">
+</a>
 <a href="https://claude.ai/" target="_blank">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 </a>
