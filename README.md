@@ -50,11 +50,11 @@
 
 ### Currently Learning  
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Springboot"></a>
+<a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GO"></a>
 
 ### Plan to Learning
 <a href="https://vuejs.org/v2/guide/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"></a>
-<a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GO"></a>
 
 ### Additional skills
 <a href="https://www.unrealengine.com/en-US" target="_blank"><img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"></a>
@@ -63,3 +63,9 @@
 ### Favorite tools
 <a href="https://open.spotify.com/" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://github.com/features/copilot" target="_blank"><img alt="GithubCopilot" src="https://img.shields.io/badge/Github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"></a>
+<a href="https://claude.ai/" target="_blank">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+</a>
+<a href="https://chat.openai.com/" target="_blank">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+</a>
