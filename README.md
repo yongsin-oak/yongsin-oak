@@ -21,6 +21,9 @@
 <a href="https://reactjs.org/docs/getting-started.html" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
 <a href="https://nextjs.org/docs" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></a>
 <a href="https://angular.io/docs" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"></a>
+<a href="https://tanstack.com/query/latest" target="_blank">
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query">
+</a>
 <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=npm&logoColor=white" alt="Zustand"></a>
 <a href="https://www.i18next.com/" target="_blank"><img src="https://img.shields.io/badge/i18n-26A69A?style=for-the-badge&logo=i18next&logoColor=white" alt="i18next"></a>
 <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
